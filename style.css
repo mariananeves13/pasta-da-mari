@@ -27,14 +27,14 @@
 
 .escola {
    backgound-image: linear-gradiend(#424E61, #16CFF80;
-         color:white;
+         color: white;
          display:flex;
-         justify-content:center;
+         justify-content: center;
          paddin: 24px 0;
    }
 
 .escola-div-conteudo {
-      widdht:, 35%;
+      widht: 35%;
    }
 
 .escola-titulo {
