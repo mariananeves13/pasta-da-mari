@@ -2,8 +2,10 @@
    margin: 0;
    padding: 0;
 }
-
-.cabecalho {
+body{
+font-family: "Pacifico", cursive;
+.cabecalho 
+}
    background-color: #424E61;
    color:white;
    display: flex;
