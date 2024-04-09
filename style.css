@@ -6,6 +6,8 @@ body{
 font-family: "Pacifico", cursive;
 .cabecalho 
 }
+
+.cabecalho{
    background-color: #424E61;
    color:white;
    display: flex;
